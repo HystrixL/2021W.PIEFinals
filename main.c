@@ -235,7 +235,7 @@ void Init(void) {
 }
 
 /*!
- * @brief RGBµÈÐ§ÇÐ»»
+ * @brief RGBµÆÐ§ÇÐ»»
  */
 void LightsSwitch(void) {
     if (isRunning) {
